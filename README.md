@@ -23,8 +23,8 @@ This repository contains the full documentation for all CIPS enterprise products
 
 - **Website:** [cipscorps.io](https://cipscorps.io)
 - **Free Tier:** [CASCADE Memory Lite](https://github.com/For-Sunny/cascade-memory-lite) (MIT License)
-- **Contact:** sales@cipscorps.io
-- **Support:** support@cipscorps.io
+- **Contact:** glass@cipscorps.io
+- **Support:** glass@cipscorps.io
 
 ---
 
