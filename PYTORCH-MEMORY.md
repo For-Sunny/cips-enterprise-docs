@@ -85,7 +85,7 @@ The Docker image:
 - Exposes port 9998 for socket connections
 - Persists checkpoints across restarts
 
-For RAM disk mode (ultra-low latency):
+For Sub-millisecond acceleration (ultra-low latency):
 
 ```bash
 docker-compose --profile ramdisk up -d
@@ -397,7 +397,7 @@ Path traversal attacks are blocked. All paths resolve within `SAFE_BASE`.
 
 **Documentation:** [cipscorps.io](https://cipscorps.io)
 
-**Email:** support@cipscorps.io
+**Email:** glass@cipscorps.io
 
 **Issues:** Contact via Gumroad or email
 
@@ -408,7 +408,7 @@ Path traversal attacks are blocked. All paths resolve within `SAFE_BASE`.
 Proprietary software. See `LICENSE` for terms.
 
 - Perpetual license, use forever
-- Whole organization can use it
+- Per Developer $60
 - One year of updates included
 - Source code provided for transparency
 - 90-day money-back guarantee
