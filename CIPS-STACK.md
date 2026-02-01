@@ -8,7 +8,7 @@ Complete Cognitive Infrastructure. Five enterprise memory systems, orchestrated.
 
 | Component | Protocol | Purpose |
 |-----------|----------|---------|
-| **CASCADE Enterprise RAM** | MCP stdio | Six-layer temporal memory with decay modeling |
+| **CASCADE Enterprise Sub-millisecond acceleration** | MCP stdio | Six-layer temporal memory with decay modeling |
 | **PyTorch Memory Enterprise** | MCP stdio | GPU-accelerated semantic vector search |
 | **Hebbian Mind Enterprise** | MCP stdio | Associative learning - edges strengthen through use |
 | **Soul Matrix** | MCP stdio | Pre-retrieval activation gating |
@@ -267,7 +267,7 @@ Common causes: insufficient memory, port conflicts, permission errors.
 
 - **Documentation:** [cipscorps.io/docs](https://cipscorps.io/docs)
 - **Architecture & Benchmarks:** [cipscorps.io/architecture](https://cipscorps.io/architecture)
-- **Email Support:** support@cipscorps.io (response within 24 hours, business days)
+- **Email Support:** glass@cipscorps.io (response within 24 hours, business days)
 - **Updates:** Included for 1 year from purchase
 
 ---
