@@ -85,12 +85,13 @@ We'll grant 48-hour read-only access to the private repository.
 
 ---
 
-## License
+## License & Intellectual Property
 
 Documentation is provided for evaluation purposes. Source code requires a commercial license.
 
-See individual product pages for licensing details.
+Portions of the technology described in these products are subject to pending patent application(s) filed with the United States Patent and Trademark Office. See individual product pages for licensing details and intellectual property notices.
 
 ---
 
+*Copyright (c) 2025-2026 C.I.P.S. LLC. All rights reserved.*
 *CIPSCORPS - Enterprise AI Memory Infrastructure*

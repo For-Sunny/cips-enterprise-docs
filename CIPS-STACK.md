@@ -274,14 +274,21 @@ Common causes: insufficient memory, port conflicts, permission errors.
 
 ## License
 
-CIPS Stack is proprietary software. Your purchase includes:
+CIPS Stack is proprietary software. See [LICENSE.md](./LICENSE.md) and [EULA](./EULA.md) for terms.
 
-- Commercial license for your organization
-- Developer seats as purchased
-- 1 year of updates
-- 90-day money-back guarantee
+Per-developer licensing. See EULA for full terms including 90-day money-back guarantee.
 
-See [LICENSE.md](./LICENSE.md) for full terms.
+---
+
+## Intellectual Property Notice
+
+Copyright (c) 2025-2026 C.I.P.S. LLC. All rights reserved.
+
+Portions of the technology described herein are subject to pending patent application(s) filed with the United States Patent and Trademark Office. The methods, processes, and architectures embodied in this software -- including but not limited to multi-system cognitive memory orchestration, temporal decay modeling, Hebbian associative learning, GPU-optimized sequential tensor rotation for semantic retrieval, and pre-retrieval activation gating -- may be protected under one or more issued or pending patents.
+
+Unauthorized reproduction, reverse engineering, creation of derivative works, or commercial redistribution is strictly prohibited and may constitute infringement of intellectual property rights protected under U.S. and international law.
+
+For licensing inquiries: glass@cipscorps.io
 
 ---
 

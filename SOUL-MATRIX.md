@@ -295,7 +295,17 @@ No external dependencies beyond the Rust standard library and serde for JSON.
 
 ## License
 
-MIT OR Apache-2.0
+MIT OR Apache-2.0 (standalone). Commercial license when bundled with CIPS Stack.
+
+---
+
+## Intellectual Property Notice
+
+Copyright (c) 2025-2026 C.I.P.S. LLC. All rights reserved.
+
+Portions of the technology described herein are subject to pending patent application(s) filed with the United States Patent and Trademark Office. The methods, processes, and architectures embodied in this software -- including but not limited to Hebbian conductance matrix computation, pre-token activation gating, and sub-millisecond neural graph inference -- may be protected under one or more issued or pending patents.
+
+For licensing inquiries: glass@cipscorps.io
 
 ---
 
