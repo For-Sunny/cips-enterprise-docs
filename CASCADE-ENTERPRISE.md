@@ -44,7 +44,7 @@ Requirements: Node.js >= 18, Python >= 3.10, Admin access for RAM disk
 
 ```powershell
 # Clone and install
-git clone https://github.com/cipscorp/cascade-enterprise-ram.git
+git clone https://github.com/For-Sunny/cascade-memory-enterprise.git
 cd cascade-enterprise-ram
 npm install
 pip install .
@@ -59,7 +59,7 @@ Requirements: Node.js >= 18, Python >= 3.10, sudo access for RAM disk
 
 ```bash
 # Clone and install
-git clone https://github.com/cipscorp/cascade-enterprise-ram.git
+git clone https://github.com/For-Sunny/cascade-memory-enterprise.git
 cd cascade-enterprise-ram
 npm install
 pip install .
@@ -338,28 +338,20 @@ RAM disk contents are lost on reboot. Ensure `CASCADE_DB_PATH` points to persist
 ## Support
 
 - **Documentation:** [cipscorps.io](https://cipscorps.io)
-- **Support:** support@cipscorps.io
+- **Support:** glass@cipscorps.io
 - **Bug Reports:** Include CASCADE version, OS, and error output
 
 ---
 
 ## License
 
-Proprietary software. See [LICENSE](./LICENSE) and [EULA](./EULA.md) for terms.
-
-Per-developer licensing. See EULA for full terms including 90-day money-back guarantee.
+MIT License. Free and open source. See [LICENSE](./LICENSE) for terms.
 
 ---
 
-## Intellectual Property Notice
+Copyright (c) 2025-2026 C.I.P.S. LLC.
 
-Copyright (c) 2025-2026 C.I.P.S. LLC. All rights reserved.
-
-Portions of the technology described herein are subject to pending patent application(s) filed with the United States Patent and Trademark Office. The methods, processes, and architectures embodied in this software -- including but not limited to temporal memory decay modeling, multi-layer memory orchestration, and GPU-optimized tensor operations for semantic retrieval -- may be protected under one or more issued or pending patents.
-
-Unauthorized reproduction, reverse engineering, creation of derivative works, or commercial redistribution is strictly prohibited and may constitute infringement of intellectual property rights protected under U.S. and international law.
-
-For licensing inquiries: glass@cipscorps.io
+For inquiries: glass@cipscorps.io
 
 ---
 

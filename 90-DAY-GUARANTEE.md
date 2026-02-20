@@ -31,13 +31,9 @@
 
 ## POLICY DETAILS
 
-✅ **Applies to:** All commercial products  
-   - CASCADE Enterprise RAM
+✅ **Applies to:** All commercial products
    - PyTorch Memory Enterprise
-   - Hebbian Mind Enterprise  
-   - Soul Matrix (Python)
-   - Soul Matrix (Rust)
-   - Complete Cognitive Stack bundle
+   - Complete Cognitive Stack bundle (CIPS Stack)
 
 ✅ **No penalties:** No restocking fees, no deductions
 

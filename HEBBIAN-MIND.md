@@ -23,7 +23,7 @@ Three paths. Pick what fits.
 
 ```powershell
 # Clone the repo
-git clone https://github.com/cipscorps/hebbian-mind-enterprise.git
+git clone https://github.com/For-Sunny/hebbian-mind-enterprise.git
 cd hebbian-mind-enterprise
 
 # Install with pip
@@ -39,7 +39,7 @@ The server runs on stdio. Press Ctrl+C to stop.
 
 ```bash
 # Clone the repo
-git clone https://github.com/cipscorps/hebbian-mind-enterprise.git
+git clone https://github.com/For-Sunny/hebbian-mind-enterprise.git
 cd hebbian-mind-enterprise
 
 # Install with pip (use a virtual environment if you prefer)
@@ -55,7 +55,7 @@ Linux gets automatic RAM disk support via `/dev/shm` when enabled.
 
 ```bash
 # Clone the repo
-git clone https://github.com/cipscorps/hebbian-mind-enterprise.git
+git clone https://github.com/For-Sunny/hebbian-mind-enterprise.git
 cd hebbian-mind-enterprise
 
 # Copy environment template
@@ -349,33 +349,21 @@ pytest --cov=hebbian_mind
 
 ## Support
 
-- **Documentation**: [cipscorps.io/docs/hebbian-mind](https://cipscorps.io/docs/hebbian-mind)
-- **Email**: support@cipscorps.io
-- **Issues**: Private repo issue tracker
-
-Enterprise support plans available.
+- **Documentation**: [cipscorps.io](https://cipscorps.io)
+- **Email**: glass@cipscorps.io
+- **Issues**: GitHub issue tracker
 
 ---
 
 ## License
 
-Proprietary software. See [LICENSE](./LICENSE) and [EULA](./EULA.md) for terms.
-
-Per-developer licensing. See EULA for full terms including 90-day money-back guarantee.
-
-Redistribution prohibited.
+Open source. See [LICENSE](./LICENSE) for terms.
 
 ---
 
-## Intellectual Property Notice
+Copyright (c) 2025-2026 C.I.P.S. LLC.
 
-Copyright (c) 2025-2026 C.I.P.S. LLC. All rights reserved.
-
-Portions of the technology described herein are subject to pending patent application(s) filed with the United States Patent and Trademark Office. The methods, processes, and architectures embodied in this software -- including but not limited to Hebbian-based associative learning for knowledge graphs, co-activation edge strengthening, and GPU-optimized tensor operations for neural graph computation -- may be protected under one or more issued or pending patents.
-
-Unauthorized reproduction, reverse engineering, creation of derivative works, or commercial redistribution is strictly prohibited and may constitute infringement of intellectual property rights protected under U.S. and international law.
-
-For licensing inquiries: glass@cipscorps.io
+For inquiries: glass@cipscorps.io
 
 ---
 

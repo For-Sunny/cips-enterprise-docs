@@ -10,9 +10,9 @@ This repository contains the full documentation for all CIPS enterprise products
 
 | Product | Price | Documentation |
 |---------|-------|---------------|
-| [CASCADE Enterprise](CASCADE-ENTERPRISE.md) | $400 | 6-layer temporal memory, sub-millisecond access |
+| [CASCADE Enterprise](CASCADE-ENTERPRISE.md) | Free (MIT) | 6-layer temporal memory, sub-millisecond access |
 | [PyTorch Memory](PYTORCH-MEMORY.md) | $600 | GPU vector search, <2ms semantic retrieval |
-| [Hebbian Mind](HEBBIAN-MIND.md) | $800 | Associative neural graph, relationship learning |
+| [Hebbian Mind](HEBBIAN-MIND.md) | Free (MIT) | Associative neural graph, relationship learning |
 | [Soul Matrix](SOUL-MATRIX.md) | Bundle | Identity gating, 270μs Rust inference |
 | [CMM Enterprise](CMM-ENTERPRISE.md) | Bundle | Unified cognitive search across all backends |
 | [CIPS Stack](CIPS-STACK.md) | $1,500 | Complete integrated stack (all 5 components) |
@@ -22,7 +22,7 @@ This repository contains the full documentation for all CIPS enterprise products
 ## Quick Links
 
 - **Website:** [cipscorps.io](https://cipscorps.io)
-- **Free Tier:** [CASCADE Memory Lite](https://github.com/For-Sunny/cascade-memory-lite) (MIT License)
+- **Open Source:** [CASCADE Enterprise](https://github.com/For-Sunny/cascade-memory-enterprise) | [Hebbian Mind Enterprise](https://github.com/For-Sunny/hebbian-mind-enterprise) (MIT License)
 - **Contact:** glass@cipscorps.io
 - **Support:** glass@cipscorps.io
 
@@ -30,7 +30,13 @@ This repository contains the full documentation for all CIPS enterprise products
 
 ## What You Get
 
-Each enterprise license includes:
+**Open source (CASCADE Enterprise, Hebbian Mind Enterprise):**
+
+- **Full source code** - MIT licensed, free to use, modify, and distribute
+- **Docker images** - Pre-built containers for instant deployment
+- **Community support** - GitHub issues and documentation
+
+**Commercial products (PyTorch Memory, Soul Matrix, CMM, CIPS Stack):**
 
 - **Source code access** - Full repository with all source files
 - **Docker images** - Pre-built containers for instant deployment
@@ -87,9 +93,7 @@ We'll grant 48-hour read-only access to the private repository.
 
 ## License & Intellectual Property
 
-Documentation is provided for evaluation purposes. Source code requires a commercial license.
-
-Portions of the technology described in these products are subject to pending patent application(s) filed with the United States Patent and Trademark Office. See individual product pages for licensing details and intellectual property notices.
+CASCADE Enterprise and Hebbian Mind Enterprise are open source under the MIT License. PyTorch Memory, Soul Matrix, CMM, and CIPS Stack require commercial licenses. See individual product pages for licensing details.
 
 ---
 

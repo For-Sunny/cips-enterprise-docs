@@ -27,7 +27,10 @@ Rust toolchain (1.70+). Install from [rustup.rs](https://rustup.rs/).
 
 ### Build from Source
 
+Available as part of the CIPS Stack bundle. Contact glass@cipscorps.io for access.
+
 ```bash
+# After purchase, you receive access to the private repository
 git clone https://github.com/For-Sunny/soul-matrix-rust
 cd soul-matrix-rust
 cargo build --release
@@ -237,7 +240,7 @@ Keys are pin indices (as strings). Values are concept names. Lookup is case-inse
 | Matrix size | 65,536 bytes |
 | Memory footprint | <10 MB |
 
-The matrix fits in L2 cache. No disk access during inference.
+The matrix fits in L1 cache. No disk access during inference.
 
 Run benchmarks:
 

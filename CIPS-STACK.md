@@ -8,9 +8,9 @@ Complete Cognitive Infrastructure. Five enterprise memory systems, orchestrated.
 
 | Component | Protocol | Purpose |
 |-----------|----------|---------|
-| **CASCADE Enterprise Sub-millisecond acceleration** | MCP stdio | Six-layer temporal memory with decay modeling |
+| **CASCADE Enterprise** (Open Source - MIT) | MCP stdio | Six-layer temporal memory with decay modeling |
 | **PyTorch Memory Enterprise** | MCP stdio | GPU-accelerated semantic vector search |
-| **Hebbian Mind Enterprise** | MCP stdio | Associative learning - edges strengthen through use |
+| **Hebbian Mind Enterprise** (Open Source) | MCP stdio | Associative learning - edges strengthen through use |
 | **Soul Matrix** | MCP stdio | Pre-retrieval activation gating |
 | **CMM Enterprise** | MCP stdio | Unified cognitive search across all backends |
 
@@ -121,9 +121,8 @@ Add to your `claude_desktop_config.json`:
       "cwd": "./components/hebbian-mind-enterprise"
     },
     "soul-matrix": {
-      "command": "python",
-      "args": ["-m", "soul_matrix"],
-      "cwd": "./components/soul-matrix-rust"
+      "command": "./components/soul-matrix-rust/target/release/soul-matrix-server",
+      "args": ["--matrix", "./data/soul_matrix.bin", "--map", "./data/concept_map.json"]
     },
     "cmm-enterprise": {
       "command": "python",
